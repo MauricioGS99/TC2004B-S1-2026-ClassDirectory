@@ -2,3 +2,4 @@
 
 ## Estudiantes
 - [Emiliano Hervert de la Cruz](profiles/emiliano_hervert.md) - Estudiante
+[Emilio Urbina Arredondo](profiles/EmilioUrbina.md) - Estudiante
