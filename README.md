@@ -5,9 +5,6 @@
 \## Estudiantes
 
 
-
 \- \[Natalia Ixchel Reynoso Ramírez](profiles/NataliaReynoso.md) - Estudiante
 
 
-
-[Emilio Urbina Arredondo](profiles/EmilioUrbina.md) - Estudiante
