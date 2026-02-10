@@ -1,23 +1,22 @@
-# Mauricio González Soto
+# Jenaro Alcaraz Saragosa
 
-**Rol:** Profesor de TC2004B 
-**Especialidad:** Estadistica Bayesiana, Filosofía de la Probabilidad, Machine Learning, Data Science
+A01646850
 
-## Sobre mí
-Matemático por el ITAM, 
-Mtro en Data Science por el ITAM
-PhD en CS por el INAOE. 
-Postdoc Universidad de Viena
-Profesor de planta en el Tec de Monterrey.
+## ¿Por qué te interesa Data Science?
 
-## Tech Stack
-- Python, R
-- scikit-learn, PyTorch
-- Git, LaTeX
+En general me gustan mucho las matemáticas y el alcance que tienen. Me parece muy interesante to el area de llms y machine learning.
 
 ## Fun Fact
+
 Reprobé el examen de admisión al kinder
 
-## Links
-- GitHub: [@mauriciogs99](https://github.com/mauriciogs99)
-- Email: mauricio.gonzalez.soto@tec.mx
+## Herramientas que ya conozco
+
+Conozco Cursor, Quarto, Jupyter, Visual Studio 
+
+## Fun Fact
+
+En kinder me rompi la pierna y tuve que ir en carreola a la escuela
+
+
+
