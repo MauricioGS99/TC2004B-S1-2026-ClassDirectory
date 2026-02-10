@@ -1,23 +1,14 @@
-# Mauricio González Soto
+# Nombre
+Jesús Alejandro Pérez Granados
 
-**Rol:** Profesor de TC2004B 
-**Especialidad:** Estadistica Bayesiana, Filosofía de la Probabilidad, Machine Learning, Data Science
+## Matrícula
+A01253993
 
-## Sobre mí
-Matemático por el ITAM, 
-Mtro en Data Science por el ITAM
-PhD en CS por el INAOE. 
-Postdoc Universidad de Viena
-Profesor de planta en el Tec de Monterrey.
+## ¿Por qué me interesa Data Science?
+Me interesa por el impacto que puede generar mediante el análisis y la interpretación
 
-## Tech Stack
-- Python, R
-- scikit-learn, PyTorch
-- Git, LaTeX
+## Herramientas que ya conoces
+Conocimiento de lenguajes como Python, C++, R
 
-## Fun Fact
-Reprobé el examen de admisión al kinder
-
-## Links
-- GitHub: [@mauriciogs99](https://github.com/mauriciogs99)
-- Email: mauricio.gonzalez.soto@tec.mx
+## Un fun fact sobre ti
+Disfruto escribir y en general el arte del lenguaje
