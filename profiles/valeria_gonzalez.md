@@ -1,4 +1,5 @@
 # Valeria Gonzalez
+A00842141
 
 **Rol:** Estudiantes 
 
@@ -7,6 +8,9 @@ Estudio ciencia de datos y matematicas. NacÍ en CDMX pero he vivido toda mi vid
 
 ## Tech Stack
 - Python, R
+
+## Fun Fact
+- Toque el tambor en banda de guerra y otras percusiones por un par de años, ya no practico la vrd
 
 ## Links
 - GitHub: [@ValeriaGonzN](https://github.com/ValeriaGonzN)
