@@ -2,7 +2,7 @@
 
 
 
-\##Estudiantes
+##Estudiantes
 
-\- \[Gema Ruiz](profiles/gema\_ruiz.md) - Estudiante
-
+- [Gema Ruiz](profiles/gema\_ruiz.md) - Estudiante
+-[Emilio Urbina Arredondo](profiles/EmilioUrbina.md) - Estudiante
