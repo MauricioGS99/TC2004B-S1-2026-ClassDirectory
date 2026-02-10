@@ -1,23 +1,17 @@
-# Mauricio González Soto
+# Valeria Gonzalez
+A00842141
 
-**Rol:** Profesor de TC2004B 
-**Especialidad:** Estadistica Bayesiana, Filosofía de la Probabilidad, Machine Learning, Data Science
+**Rol:** Estudiantes 
 
 ## Sobre mí
-Matemático por el ITAM, 
-Mtro en Data Science por el ITAM
-PhD en CS por el INAOE. 
-Postdoc Universidad de Viena
-Profesor de planta en el Tec de Monterrey.
+Estudio ciencia de datos y matematicas. NacÍ en CDMX pero he vivido toda mi videa en Mazatlán
 
 ## Tech Stack
 - Python, R
-- scikit-learn, PyTorch
-- Git, LaTeX
 
 ## Fun Fact
-Reprobé el examen de admisión al kinder
+- Toque el tambor en banda de guerra y otras percusiones por un par de años, ya no practico la vrd
 
 ## Links
-- GitHub: [@mauriciogs99](https://github.com/mauriciogs99)
-- Email: mauricio.gonzalez.soto@tec.mx
+- GitHub: [@ValeriaGonzN](https://github.com/ValeriaGonzN)
+- Email: a00842141@tec.mx
